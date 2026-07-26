@@ -1,0 +1,4 @@
+promo_id,promo_name,promo_type,discount_pct,discount_amount,loyalty_tier_id
+P1,Deep Clean Clearance - 60% Off,PERCENT,0.6,,
+P2,Gold Member Exclusive 20%,PERCENT,0.2,,3.0
+P3,Online Flash Sale 10 Off,FIXED,,10.0,

@@ -1,0 +1,501 @@
+customer_id,signup_date,age_band,address,city,email,loyalty_tier_id
+CUS0001,2024-07-04,18-25,09232 Caldwell Port,South Holly,gary91@example.org,1
+CUS0002,2024-12-05,46+,049 Sanders Stravenue,North Brittany,curtisbarton@example.net,2
+CUS0003,2024-03-14,18-25,058 Stanley Cliff,Alexanderchester,xgarcia@example.net,1
+CUS0004,2024-10-12,26-35,262 Gilbert Plain Suite 769,Marcusbury,ramirezshannon@example.com,1
+CUS0005,2024-02-20,36-45,0752 Lewis Union Suite 549,Angelahaven,christophercortez@example.com,2
+CUS0006,2024-02-10,36-45,777 Christopher Forges,Holtport,thomas85@example.com,1
+CUS0007,2024-12-28,46+,7444 David Fields Suite 182,East Joanna,jenny89@example.com,1
+CUS0008,2024-12-16,18-25,3524 Jean Crossroad,Brandonton,heidi27@example.org,1
+CUS0009,2024-09-29,36-45,7752 Johnny Wall Suite 116,Joneston,edwardhart@example.com,1
+CUS0010,2023-03-04,18-25,86999 Kimberly Light,Kerrport,ntorres@example.org,1
+CUS0011,2024-03-21,46+,34123 Andrea Estate,South Shannonfort,antonio44@example.net,1
+CUS0012,2024-09-19,46+,349 Ronald Plains,Lake Edward,margaret10@example.org,1
+CUS0013,2024-08-01,36-45,1746 Mason Park Suite 190,Navarroview,davissuzanne@example.net,3
+CUS0014,2024-03-04,36-45,490 Thomas Run,Moonburgh,fwalters@example.org,2
+CUS0015,2023-12-10,36-45,5125 Steele Heights Suite 807,West Johnnyville,ahancock@example.net,2
+CUS0016,2024-09-26,18-25,0385 Garrett Trace Apt. 348,West Samuel,omartinez@example.net,1
+CUS0017,2024-08-06,36-45,8086 Jeffrey Ville,South Staceyberg,scantu@example.net,2
+CUS0018,2024-05-29,36-45,7378 Patrick Rapid Apt. 146,Sarahhaven,lori44@example.net,1
+CUS0019,2024-02-28,26-35,78755 Gibson Islands Apt. 396,Port Kimberly,floresthomas@example.com,1
+CUS0020,2023-10-09,46+,0289 Kane Well,Garciamouth,bowenrobert@example.net,2
+CUS0021,2024-12-09,46+,4596 Melissa Walk,Finleyfort,williamsonjimmy@example.net,3
+CUS0022,2024-11-03,26-35,161 Scott Square,Rebeccaton,laura45@example.com,1
+CUS0023,2023-11-11,46+,692 Gregory Ridge,Harveybury,jdurham@example.org,1
+CUS0024,2023-12-03,26-35,4074 Charles Key Suite 647,Jamesfurt,yrodriguez@example.net,1
+CUS0025,2023-09-20,26-35,406 Smith Way Apt. 974,New Laurie,danaoliver@example.net,1
+CUS0026,2024-07-05,36-45,104 Johnson Lakes,North Renee,julie23@example.org,2
+CUS0027,2024-07-28,46+,842 Sloan Orchard Suite 517,East Karenbury,zcoffey@example.net,3
+CUS0028,2023-09-25,46+,48175 Richards View Suite 137,New Nicoleside,rose31@example.net,3
+CUS0029,2024-08-24,26-35,612 Sophia Hollow Suite 113,South Shawn,umatthews@example.org,1
+CUS0030,2024-10-08,18-25,9640 Robinson Mills,Port Michael,amy50@example.com,1
+CUS0031,2023-07-21,36-45,1390 Kristin Gardens,Port Anne,gallegosangela@example.net,2
+CUS0032,2023-06-07,36-45,2904 Vanessa Plains,Laurenville,andersonmichael@example.org,1
+CUS0033,2024-03-05,46+,40268 Julie Mountains,Stricklandhaven,hayesjeffrey@example.net,1
+CUS0034,2023-02-01,46+,0076 Parks Overpass Suite 115,North David,oscar98@example.com,2
+CUS0035,2023-11-28,26-35,18367 Robert Views Suite 661,Ronaldview,stephanie71@example.org,1
+CUS0036,2024-08-30,46+,1528 Brenda Points,Elizabethchester,morgan60@example.com,1
+CUS0037,2024-03-14,36-45,98327 Melanie Keys Suite 149,Port Roy,lynchdiane@example.net,1
+CUS0038,2023-07-15,46+,4550 Molly Port,Jonestown,reesejason@example.com,2
+CUS0039,2023-11-28,26-35,4599 Nicole Drives,Port Christine,nelsonebony@example.com,1
+CUS0040,2024-03-19,36-45,3815 Rodriguez Springs Suite 840,South Tracey,smithkevin@example.org,1
+CUS0041,2024-07-14,36-45,5107 Thompson Light Apt. 885,South Michelleton,esmith@example.com,1
+CUS0042,2024-02-25,36-45,641 Smith Islands Apt. 975,South Meganbury,hchapman@example.org,1
+CUS0043,2023-10-16,46+,535 Charles Roads Apt. 883,Michaelberg,curtisscott@example.org,1
+CUS0044,2024-03-15,46+,77997 Lin Road,Edwardland,tramos@example.com,1
+CUS0045,2024-03-07,18-25,147 Johnson Land Suite 119,Fordside,colelisa@example.net,1
+CUS0046,2023-05-18,36-45,207 Lisa Villages Suite 182,East Jasminemouth,michaelhardin@example.com,2
+CUS0047,2023-10-26,46+,905 Mark Point Suite 449,West Christopher,sabrinacollins@example.net,1
+CUS0048,2024-05-24,18-25,91486 Li Skyway Apt. 685,West Kyleborough,stacey73@example.org,1
+CUS0049,2024-12-30,46+,41888 Ebony Wells,New Nicholas,henryschwartz@example.net,1
+CUS0050,2024-08-13,26-35,706 Rhodes Freeway,Bishopmouth,amandacollins@example.com,1
+CUS0051,2024-10-21,26-35,9774 Shaw Manor,Port James,moniquewilliams@example.com,3
+CUS0052,2024-09-30,46+,814 Kathryn Groves,Whiteheadberg,odavis@example.com,2
+CUS0053,2024-10-07,18-25,0685 Paul Common,Jeffreymouth,combsdebra@example.org,1
+CUS0054,2023-04-11,36-45,2779 Rebecca Brook Suite 328,Rodriguezport,kevinwilliams@example.com,1
+CUS0055,2024-04-11,18-25,17980 Jennifer Highway Suite 095,New Robert,millsmichael@example.net,1
+CUS0056,2024-02-02,46+,7065 Burgess Knolls,West Johnville,dennis58@example.com,1
+CUS0057,2024-08-16,36-45,772 Bryan Trail,Johnsonborough,moodynina@example.com,3
+CUS0058,2024-11-12,18-25,740 Justin Wall Apt. 541,Samuelfurt,ykline@example.com,1
+CUS0059,2024-12-11,36-45,758 Owen Stream Suite 169,New Kelly,millerdonna@example.com,1
+CUS0060,2023-11-22,36-45,75705 Hill Turnpike Apt. 165,North Douglas,ejohnson@example.org,1
+CUS0061,2024-07-22,18-25,6909 Erika Land Suite 719,New Michael,debra31@example.org,1
+CUS0062,2024-06-21,26-35,681 Hampton Squares Suite 394,Gonzalezberg,hayesrachel@example.com,1
+CUS0063,2024-12-29,46+,518 Vance Vista Apt. 258,North Tracie,joelsnyder@example.com,1
+CUS0064,2024-02-09,18-25,8291 Kyle Stravenue Suite 866,East Teresaland,howens@example.com,3
+CUS0065,2023-04-04,36-45,68018 Kevin Estates,Sarahbury,stacey84@example.org,1
+CUS0066,2023-07-02,26-35,49818 Brittany Prairie Apt. 299,Meganshire,bryananthony@example.org,2
+CUS0067,2024-11-23,36-45,396 Tyler Road Suite 473,Evansland,moorerobert@example.com,3
+CUS0068,2023-05-29,46+,5562 Robertson Coves,Johnville,shannon21@example.org,1
+CUS0069,2023-07-31,26-35,632 Peck Stravenue Suite 327,Jimenezport,zjohnson@example.net,1
+CUS0070,2023-11-30,46+,95004 Harper Ville,Mitchelltown,jordannicole@example.net,2
+CUS0071,2023-09-25,46+,0609 Michael Heights Apt. 687,Marciaville,theresalong@example.com,1
+CUS0072,2024-02-12,36-45,39868 Brandon Dam Suite 787,New Patricia,markaustin@example.org,3
+CUS0073,2023-10-14,18-25,588 Erickson Hills Suite 055,South Brandytown,pbaker@example.net,1
+CUS0074,2024-02-26,36-45,728 Hernandez Springs,North Ashley,leescott@example.com,1
+CUS0075,2023-04-21,26-35,8970 April Points,Whitneyfort,ledwards@example.com,2
+CUS0076,2024-10-27,26-35,549 Lee Gateway Suite 843,Kellieborough,wstewart@example.net,2
+CUS0077,2024-11-12,26-35,1986 Cardenas Trail Apt. 404,West Sandraview,ilewis@example.com,2
+CUS0078,2024-11-12,26-35,19933 Elizabeth Pines Apt. 301,Riverafort,maldonadoderrick@example.net,1
+CUS0079,2024-12-14,26-35,7734 Mitchell Circle,Lake Audreyside,gentrygregory@example.org,2
+CUS0080,2024-11-12,18-25,7240 Kenneth Rapids,West Justinside,ismall@example.net,2
+CUS0081,2023-12-08,36-45,52742 Jill Turnpike,Ashleyborough,cherylfowler@example.com,1
+CUS0082,2024-08-26,26-35,61227 Boyle Avenue Suite 637,Stephanieport,greenmichael@example.org,1
+CUS0083,2023-02-15,18-25,4268 Vaughn Route,Michaelbury,susanmendoza@example.com,1
+CUS0084,2024-06-29,46+,8783 Erin Ranch Apt. 878,Christianshire,brownamy@example.net,1
+CUS0085,2023-05-28,46+,58713 Davis Pass,Stokesmouth,williambryant@example.org,3
+CUS0086,2024-02-12,46+,064 Julie Prairie Apt. 065,New Virginialand,ajohnson@example.org,1
+CUS0087,2024-07-15,18-25,6766 Felicia Shore Apt. 512,Ricebury,avilatiffany@example.com,2
+CUS0088,2024-05-06,36-45,633 Reed Harbor Apt. 106,East Jamieville,griffinemily@example.org,1
+CUS0089,2023-06-28,46+,7383 Donald Highway,Port Sabrina,barbara53@example.com,1
+CUS0090,2024-10-01,36-45,4408 Connie Meadow,Williamsstad,ufloyd@example.net,1
+CUS0091,2023-10-31,26-35,6287 Melissa Hills,Port Steven,harttammy@example.net,1
+CUS0092,2024-01-22,26-35,43517 Davis Stream Apt. 046,Port Charlesshire,timothybooth@example.com,2
+CUS0093,2023-08-10,18-25,31739 Randy Garden,Kimberlyfurt,wferguson@example.com,1
+CUS0094,2023-07-10,26-35,1753 Edwards Cape Apt. 204,Phillipsborough,jerry93@example.com,2
+CUS0095,2024-02-06,26-35,7772 Jackson Stravenue Suite 280,Port Melanieton,gutierrezmegan@example.org,1
+CUS0096,2023-02-19,26-35,38750 Hopkins Brook,New Andreatown,morenojoshua@example.com,1
+CUS0097,2023-01-13,36-45,11823 Christine Glen Suite 461,Susanmouth,veronicaperez@example.net,1
+CUS0098,2024-08-27,36-45,016 Bennett Mountains,Lake Albertburgh,porterryan@example.com,2
+CUS0099,2024-02-18,36-45,033 Nelson Club,Rachelshire,whitemelissa@example.org,1
+CUS0100,2024-12-02,36-45,614 Anne Port,Rhodesside,patrick21@example.net,1
+CUS0101,2024-06-28,18-25,16315 Novak Islands Apt. 477,West Angela,rreynolds@example.net,1
+CUS0102,2024-04-27,26-35,431 Joseph Light,Lake Peter,daniel04@example.com,1
+CUS0103,2023-09-20,26-35,21267 Garcia Corners Suite 819,Michelletown,robert18@example.org,1
+CUS0104,2024-02-22,36-45,622 Turner Park,North Gary,robert71@example.com,1
+CUS0105,2023-07-03,18-25,799 Stephen Dale,Adamfurt,meagan65@example.com,2
+CUS0106,2023-09-02,18-25,5937 Thompson Locks,Kellyfort,markramirez@example.com,2
+CUS0107,2023-09-24,36-45,828 Stephanie Mountain,South Lauren,fuenteslaura@example.com,1
+CUS0108,2024-05-06,46+,434 Jennifer Turnpike,Jonesfort,sferguson@example.com,1
+CUS0109,2024-02-01,18-25,891 Kayla Shoals Suite 290,Rasmussenmouth,grodriguez@example.com,1
+CUS0110,2023-06-12,36-45,5679 Michael Burg,Garciachester,wilsonshelia@example.org,1
+CUS0111,2023-09-12,36-45,3875 Davis Stravenue Suite 514,Port Jennifertown,deborah23@example.net,1
+CUS0112,2023-05-08,46+,8673 Soto Ferry,Fosterborough,yvargas@example.org,1
+CUS0113,2024-05-29,18-25,1918 Michael Flat,Wilsonfort,candice96@example.net,1
+CUS0114,2023-03-25,26-35,9249 Emily Island Apt. 341,West Heather,ibarnes@example.net,1
+CUS0115,2023-10-08,46+,8282 Roberts Ferry,Meganton,stephanie72@example.org,1
+CUS0116,2024-08-18,36-45,7677 Christopher Burgs Apt. 404,New Keith,xcunningham@example.com,1
+CUS0117,2024-02-06,36-45,148 Weaver Throughway,Port Jenniferside,veronicagarcia@example.net,1
+CUS0118,2024-07-02,36-45,74517 Kimberly Freeway Apt. 959,Martinberg,lisatrujillo@example.net,2
+CUS0119,2023-09-14,36-45,825 Roberts Grove Apt. 260,Michelleberg,johndawson@example.org,2
+CUS0120,2024-07-09,26-35,2946 Hayes Roads Apt. 684,Shawnfort,brandi17@example.net,3
+CUS0121,2024-04-29,18-25,86363 Adams Village Suite 589,New Melissa,patricia00@example.org,2
+CUS0122,2024-04-02,46+,12770 Harris Spurs Apt. 424,Lake Michaelland,elizabeth20@example.com,1
+CUS0123,2024-04-01,46+,1103 Miller Ramp,New Erin,smithmatthew@example.org,1
+CUS0124,2024-12-22,18-25,271 Patrick Street Apt. 155,Derrickberg,caseyelliott@example.net,1
+CUS0125,2024-04-19,46+,3269 Heath Corners Apt. 219,Bellchester,kylie34@example.net,1
+CUS0126,2023-03-03,46+,043 Julie Hill Apt. 376,East Victorland,hatfieldsarah@example.org,2
+CUS0127,2023-10-10,26-35,8271 Brenda Bridge Suite 300,Hunterhaven,zhenderson@example.org,1
+CUS0128,2024-04-12,36-45,1418 Terri Drives,Peterland,holly30@example.org,2
+CUS0129,2023-03-04,26-35,79904 David Station Apt. 027,Alexandraview,nathanbrady@example.com,1
+CUS0130,2024-06-19,46+,56481 Joseph Ports,South Spencerstad,porterashley@example.com,1
+CUS0131,2023-04-25,36-45,138 Bradley Wall,East Brandonstad,lmora@example.org,1
+CUS0132,2024-02-08,18-25,53654 Ashley Crest Apt. 238,South Caseymouth,kiara45@example.org,1
+CUS0133,2024-02-08,46+,3494 Steven Ramp,Cuevasborough,edwardrandolph@example.org,3
+CUS0134,2023-06-20,26-35,050 Sweeney Stream Suite 138,South Travis,kaufmandouglas@example.com,3
+CUS0135,2023-03-09,18-25,657 Beverly Parkways,Lake Lori,vargasbryan@example.net,1
+CUS0136,2024-12-04,46+,4565 Chavez Fort,East Derekshire,moorefrank@example.com,1
+CUS0137,2023-08-18,46+,537 Ford Walk,North Ericport,lewismelissa@example.org,1
+CUS0138,2023-03-08,18-25,6804 Wilkins Extensions,South Melissaside,codygarcia@example.org,1
+CUS0139,2023-03-30,46+,23651 Lowery Club,North Jamesmouth,christopherboone@example.com,2
+CUS0140,2023-03-31,36-45,29667 Patrick Meadow Apt. 532,Joshuaberg,mendezchristina@example.net,1
+CUS0141,2023-08-04,46+,701 Reyes Manor Apt. 838,South Kimberlystad,fstephens@example.com,2
+CUS0142,2024-10-28,46+,4205 Anthony Valleys Suite 078,Katiebury,craigsandoval@example.com,1
+CUS0143,2024-01-25,26-35,96522 Brittany Valley,Robintown,stacey92@example.net,1
+CUS0144,2024-11-23,36-45,427 Christopher Fort Apt. 087,West Samanthaborough,matthewthompson@example.com,1
+CUS0145,2023-02-13,46+,218 Yu Landing,Willismouth,marcus26@example.net,1
+CUS0146,2024-12-02,36-45,89539 Nicholas Street Suite 220,Rosalesshire,whitelucas@example.net,2
+CUS0147,2023-06-11,18-25,2513 Haas Expressway,Port Jennamouth,nsmith@example.org,2
+CUS0148,2024-05-21,18-25,1006 Oconnor Expressway Suite 765,Garciafort,franciscojones@example.org,1
+CUS0149,2023-08-04,36-45,1152 Martin Club Apt. 599,Bushchester,catherinehamilton@example.org,1
+CUS0150,2023-03-15,36-45,68844 Young Causeway,Armstrongfort,briansmith@example.org,1
+CUS0151,2023-08-04,26-35,10324 Thomas Crescent Suite 677,Christopherside,ylopez@example.com,2
+CUS0152,2023-05-17,46+,7743 Elliott Drive,North Elizabethside,larellano@example.org,1
+CUS0153,2024-02-09,18-25,687 Thomas Common Suite 089,North Stacy,kthompson@example.org,1
+CUS0154,2024-08-13,36-45,61632 Flores Stream,North Paulfurt,melissa87@example.org,1
+CUS0155,2024-07-28,46+,62299 Sara Port Apt. 485,Bakerfort,rjohnson@example.com,2
+CUS0156,2023-04-16,26-35,65307 Prince Brooks Suite 444,Garrisonville,dennismccann@example.com,1
+CUS0157,2024-07-19,36-45,6913 Lewis View Suite 785,New Laceyland,jenna62@example.net,1
+CUS0158,2024-10-03,36-45,33030 Williams Lake,West Micheal,owagner@example.org,1
+CUS0159,2024-05-12,46+,7972 Matthews Keys,Frankview,mitchellpaul@example.org,1
+CUS0160,2024-09-15,36-45,33468 Michelle Trafficway,South Rhondaburgh,walkercharlene@example.com,2
+CUS0161,2024-06-04,18-25,6574 Steven Springs Suite 910,Annaport,gabrielle71@example.com,1
+CUS0162,2024-12-22,18-25,4432 Rachel Valley Suite 520,Brightview,vsullivan@example.org,1
+CUS0163,2024-03-01,36-45,3875 Bruce Ville,West Connor,joycehardy@example.net,3
+CUS0164,2024-07-10,18-25,513 Walker Well,Robertmouth,jorge47@example.org,2
+CUS0165,2023-12-10,36-45,3816 Gutierrez Ways,East Victoria,robert97@example.org,1
+CUS0166,2023-08-19,26-35,75250 Shannon Fords,New Kathy,xglover@example.org,3
+CUS0167,2023-04-05,46+,666 Reyes Camp Apt. 505,North Erica,jeremywiley@example.com,2
+CUS0168,2023-04-05,46+,942 Madison Hills Suite 789,Ryanberg,wendy75@example.org,1
+CUS0169,2023-05-01,26-35,33230 David Station Apt. 648,New Virginiaville,williamsdarrell@example.com,1
+CUS0170,2023-10-05,18-25,2304 Stanley Shore Suite 992,Rivasville,campbellkristen@example.com,1
+CUS0171,2023-05-26,46+,8356 Martin Plaza,Lozanofort,jimmy01@example.org,1
+CUS0172,2024-09-01,26-35,18114 Stephen Hill Suite 701,Port Benjamin,michael56@example.net,1
+CUS0173,2023-03-26,26-35,22557 Johns Course,Lisaburgh,moralessuzanne@example.com,1
+CUS0174,2024-09-02,46+,2120 Dale Ramp Suite 972,Maxwelltown,timothyfreeman@example.com,1
+CUS0175,2023-11-18,18-25,5089 Tiffany Skyway,Aprilville,pstanley@example.com,2
+CUS0176,2023-09-10,26-35,89002 Christian Ways Apt. 175,West Tara,hunterandrea@example.com,2
+CUS0177,2023-10-22,46+,77971 West Crest,Mcgeetown,powellbarry@example.net,1
+CUS0178,2023-01-01,36-45,948 Diamond Motorway,Michaelton,meganrivera@example.net,1
+CUS0179,2024-03-13,46+,711 Aaron Knoll Suite 885,North Pennyfort,lydianewton@example.com,3
+CUS0180,2023-03-20,36-45,16373 Rodriguez Mall,Lake Maryshire,bartonshannon@example.net,3
+CUS0181,2024-03-06,36-45,0808 Roberson Orchard,Lake Beth,dalesandoval@example.net,1
+CUS0182,2024-10-06,26-35,9346 Waller Mission Apt. 269,Meganside,jennifer83@example.org,1
+CUS0183,2023-06-03,36-45,522 Page Trace Suite 879,Craigside,natalie60@example.net,3
+CUS0184,2023-03-19,26-35,00342 Vega Drive Apt. 438,West Lisaville,juliahoffman@example.org,1
+CUS0185,2024-01-08,36-45,066 Frye Spur Suite 800,Jamesmouth,rhondabush@example.net,3
+CUS0186,2023-09-26,26-35,347 Tonya Club,East Jill,bennettroy@example.net,2
+CUS0187,2023-07-12,46+,405 Mckinney Drives,East Sarahton,tracy98@example.com,1
+CUS0188,2023-02-23,36-45,328 Kristie Estate Suite 886,West Jeffreyborough,mark43@example.net,1
+CUS0189,2024-01-23,36-45,57399 Susan Springs,Patrickville,uscott@example.com,1
+CUS0190,2023-01-19,46+,877 Kenneth Run Apt. 581,East Teresaside,simsjason@example.net,1
+CUS0191,2024-07-18,46+,38612 Stephen Isle Apt. 110,Port Johnathan,andrewsjeremy@example.com,2
+CUS0192,2023-10-25,26-35,665 Perry Crest Apt. 919,Lake Melaniestad,robertsgina@example.net,2
+CUS0193,2023-03-05,36-45,6072 Derek Lock Suite 245,New Nancyberg,williamsashley@example.com,1
+CUS0194,2024-01-28,18-25,3536 Eugene Forges,Jamesburgh,yorksarah@example.net,3
+CUS0195,2023-12-03,46+,1413 Lynn Knolls,Lake Diana,mitchellchad@example.org,1
+CUS0196,2023-08-20,46+,9492 Aguirre Meadow Apt. 053,Lake Jodi,xhill@example.org,1
+CUS0197,2024-05-11,36-45,7754 Arnold Extensions Apt. 428,West Jessica,lunapatricia@example.net,1
+CUS0198,2024-04-06,36-45,308 Stephens Plains Suite 256,Port Brittany,dennis88@example.org,3
+CUS0199,2023-10-17,26-35,392 Sean Fall,Lake Jessica,billy73@example.org,1
+CUS0200,2023-07-12,26-35,38567 Keith Canyon,Dakotahaven,mary49@example.net,1
+CUS0201,2024-02-21,18-25,659 Zachary Lane Apt. 865,Tommyfort,shawdon@example.org,1
+CUS0202,2023-06-17,36-45,22259 Donna Mall Suite 177,Clarkburgh,cjohnson@example.org,1
+CUS0203,2024-02-23,18-25,80920 Jonathan Falls,Greeneshire,johnsjessica@example.com,2
+CUS0204,2024-11-22,26-35,9772 Maria Rapid,Port Brandi,cindydixon@example.org,1
+CUS0205,2024-06-12,26-35,9913 Cruz Coves Apt. 388,Serranoville,thomasmendez@example.org,1
+CUS0206,2024-10-02,46+,72980 Boyd Land,Lake Alyssabury,yclarke@example.com,1
+CUS0207,2024-03-06,26-35,2473 Justin Wells,Scotttown,lanedavid@example.org,1
+CUS0208,2023-10-01,36-45,565 Eric Run,Joseside,ncunningham@example.com,2
+CUS0209,2024-12-25,18-25,68872 Hansen Orchard Suite 495,Fitzgeraldville,seanlyons@example.org,1
+CUS0210,2023-03-15,18-25,8902 Oconnell Avenue Apt. 279,Davisview,nathanlynch@example.net,3
+CUS0211,2023-10-08,26-35,849 Sonya Viaduct Apt. 770,Port Diane,james98@example.net,1
+CUS0212,2024-05-24,18-25,053 Theresa Corners,Kimberlystad,msullivan@example.net,1
+CUS0213,2023-01-12,26-35,84895 Richmond Harbor,New Sylvia,kspears@example.org,3
+CUS0214,2023-07-10,26-35,181 Morgan Crescent Suite 894,Churchshire,wcarrillo@example.com,1
+CUS0215,2024-12-02,18-25,790 Wilson Cliff Suite 335,Moseshaven,haynesjose@example.com,3
+CUS0216,2023-03-09,46+,82755 Patricia Grove Apt. 373,Lake John,jamie33@example.net,3
+CUS0217,2023-09-17,26-35,17908 Melanie Landing,Travisshire,travis84@example.com,2
+CUS0218,2023-06-12,36-45,86780 Long Spur,South Tiffany,astewart@example.org,3
+CUS0219,2024-05-07,18-25,155 Lopez Greens Apt. 479,Michaelfort,sclark@example.com,2
+CUS0220,2023-09-24,18-25,7292 Lisa Stravenue Suite 386,Gonzalezberg,lshaffer@example.com,1
+CUS0221,2023-12-31,36-45,4489 Raymond Spurs Apt. 034,Combsville,qgarner@example.com,3
+CUS0222,2023-09-21,46+,0615 Barbara Run Apt. 455,Hamptonmouth,jamesjustin@example.net,1
+CUS0223,2024-11-29,26-35,569 Sweeney Cliffs,East Matthewmouth,denise49@example.net,2
+CUS0224,2023-10-16,46+,9876 Ivan Brooks Apt. 341,East Randy,brownnatasha@example.net,2
+CUS0225,2023-02-09,18-25,114 Christopher Loaf Suite 334,Simsberg,anthonyalvarado@example.com,1
+CUS0226,2024-09-22,46+,487 Tara Square Apt. 997,Millsside,regina78@example.org,1
+CUS0227,2024-08-10,26-35,5642 Smith Pike Apt. 547,Lake Sandrafort,albert64@example.net,1
+CUS0228,2023-06-18,36-45,536 Foster Estates,Claytonbury,christian38@example.net,1
+CUS0229,2024-08-12,26-35,8463 Ian Highway Apt. 797,Jackiefort,malikhernandez@example.net,2
+CUS0230,2023-01-17,46+,4270 Christopher Bridge,Robinsonchester,kristi75@example.com,1
+CUS0231,2024-05-23,36-45,1204 Jones Mountains,East Paula,lisa01@example.net,2
+CUS0232,2023-07-01,18-25,03718 Thomas Springs Suite 520,West Timothyport,michaelwilliams@example.net,1
+CUS0233,2023-06-08,26-35,65024 Randy Gardens,North Biancafort,nathandavis@example.org,1
+CUS0234,2023-12-31,26-35,005 Jacqueline Turnpike Apt. 273,Tinastad,bquinn@example.net,1
+CUS0235,2023-10-03,46+,0778 Daniels Overpass,New Jacob,mario74@example.net,1
+CUS0236,2024-10-29,36-45,82744 Gibson Trail,Grosstown,kimberly35@example.net,1
+CUS0237,2023-02-16,36-45,87829 Morris Row Suite 118,North Maryberg,morganharris@example.com,3
+CUS0238,2023-05-20,18-25,678 Williams Forges,North Sarahborough,fhebert@example.com,1
+CUS0239,2024-08-07,36-45,8650 Rice Street,Port Kevinborough,garciajerry@example.com,1
+CUS0240,2023-05-19,18-25,288 Reese Trafficway,Emilychester,jacksonhenry@example.com,1
+CUS0241,2024-01-04,46+,975 Pierce Islands,Robertchester,charlene98@example.org,1
+CUS0242,2023-10-01,46+,7760 Tonya Ranch Apt. 824,West Traceyborough,andrew48@example.net,1
+CUS0243,2024-02-11,36-45,07522 Richardson Prairie,East Jonathan,christopher69@example.org,1
+CUS0244,2024-06-20,36-45,2791 Johnson Valley Suite 105,Nicholechester,hconrad@example.org,1
+CUS0245,2024-06-29,26-35,604 Luis Port,West Wayne,ericnunez@example.com,1
+CUS0246,2024-12-09,26-35,64622 Miller Ports,New Raymondland,xshaw@example.net,1
+CUS0247,2023-04-06,46+,8376 Ann Street,East Charles,kmorris@example.org,1
+CUS0248,2023-03-24,36-45,5535 Wheeler Burg Suite 259,Hansonmouth,glassjesus@example.net,2
+CUS0249,2023-09-30,46+,03924 Matthew Unions,West Shannontown,jason83@example.org,1
+CUS0250,2024-02-03,26-35,792 Nicholas Shore Apt. 420,Jamesview,marshallsierra@example.org,2
+CUS0251,2023-10-11,18-25,510 Dillon Run Suite 368,West Toddside,lopezvincent@example.com,2
+CUS0252,2024-02-14,36-45,38457 Garner Brook,Gabriellestad,joel84@example.org,1
+CUS0253,2024-04-01,18-25,84325 Sandoval Corners Suite 893,Allenberg,mwaller@example.com,1
+CUS0254,2023-11-24,26-35,29832 Barker Pine,South Wendy,dianacunningham@example.org,1
+CUS0255,2023-08-20,26-35,52056 Turner Summit,Edwinborough,andersonanthony@example.net,1
+CUS0256,2024-03-26,46+,330 Miller Tunnel,Andersonfort,jack67@example.com,1
+CUS0257,2023-04-11,26-35,06046 Julia Flats,North Gregory,fcamacho@example.net,1
+CUS0258,2023-08-26,46+,66096 Long Summit Apt. 817,Wilcoxton,aprilfoster@example.net,2
+CUS0259,2023-01-29,46+,034 Sanders Hollow Suite 726,Christieton,stevenlucas@example.org,1
+CUS0260,2024-06-11,46+,98266 Hayes Fall,Garzaborough,udavis@example.net,2
+CUS0261,2024-04-18,46+,111 Walters Corner,Acostahaven,nicholasjames@example.org,1
+CUS0262,2024-10-27,18-25,22064 Cross Mission,Courtneyville,susansmith@example.com,1
+CUS0263,2023-01-09,36-45,8097 Jay Shoals Suite 767,New Carolbury,christine83@example.org,1
+CUS0264,2023-05-15,46+,502 Elizabeth Villages,Markland,rodriguezvictoria@example.org,2
+CUS0265,2024-05-05,18-25,9501 Morris Light,Port Ronaldside,carterdennis@example.net,1
+CUS0266,2024-09-19,18-25,683 Cheryl Coves Apt. 794,Lynchmouth,alicia95@example.org,2
+CUS0267,2024-03-24,36-45,772 Jeanette Fields Apt. 107,Lake Melaniechester,wwilliams@example.net,1
+CUS0268,2024-08-11,18-25,34414 Hunter Islands,North Ginamouth,nramsey@example.org,2
+CUS0269,2024-08-30,18-25,5770 Timothy Road,Mcclainside,steven60@example.net,3
+CUS0270,2023-08-07,46+,803 Marsh Underpass Suite 124,West Tonyaside,ashleyprice@example.net,3
+CUS0271,2023-03-27,46+,504 Miller Wells Apt. 574,New Kevin,brooksbenjamin@example.org,1
+CUS0272,2024-10-28,26-35,078 James Orchard Suite 521,East Jenny,hhughes@example.org,1
+CUS0273,2023-01-04,46+,915 Small Cove,Andrewport,manuellee@example.com,2
+CUS0274,2024-01-24,46+,142 Joshua Bridge Apt. 385,Josephport,georgecollins@example.com,1
+CUS0275,2024-01-30,46+,07016 Christopher Lock,Lake Caitlin,tjensen@example.com,1
+CUS0276,2024-08-19,26-35,9217 Stanley Spur,Ruizbury,michellejensen@example.com,1
+CUS0277,2023-10-14,36-45,7701 Rodriguez Neck Suite 245,New Dakota,nguyendebra@example.com,1
+CUS0278,2024-01-24,46+,639 Amy Orchard Suite 153,Muellerchester,amy32@example.net,1
+CUS0279,2024-05-03,26-35,99758 Lynn Fall Suite 619,Lake Lisafurt,troy01@example.org,1
+CUS0280,2024-08-19,18-25,27846 Gonzalez Springs,Kevinport,wrobbins@example.org,2
+CUS0281,2024-03-01,46+,40580 Jacqueline View Suite 140,South Jacqueline,tgarrett@example.com,3
+CUS0282,2023-10-24,46+,327 Jacob Lights Suite 624,East Alexander,thomasnicole@example.net,1
+CUS0283,2023-11-15,26-35,26796 Shawn Manors,Cruzbury,rogersmith@example.com,1
+CUS0284,2024-09-10,36-45,846 Johnson Camp,Bushville,fnixon@example.org,1
+CUS0285,2024-06-17,26-35,8189 John Roads Apt. 894,West Amandatown,egibson@example.net,1
+CUS0286,2024-06-19,18-25,4420 Acosta Port Suite 079,New Brett,lisa90@example.com,3
+CUS0287,2023-12-20,46+,144 Christina Harbor,Alexisville,reneestevenson@example.net,1
+CUS0288,2023-11-23,18-25,3728 Matthew Corner,New Sarah,marymullins@example.com,1
+CUS0289,2024-07-16,18-25,723 Brown Greens,North Garyfurt,vturner@example.net,1
+CUS0290,2023-06-20,18-25,4286 Keith Union Suite 658,North Samanthastad,pbishop@example.com,1
+CUS0291,2023-09-02,18-25,49673 April Springs Apt. 580,Port Carloschester,foxgina@example.com,1
+CUS0292,2023-06-10,18-25,3009 Brian Ranch Apt. 911,Port Cassandrafurt,pauladominguez@example.com,1
+CUS0293,2023-08-04,26-35,746 Scott Tunnel,West Kimberlyfurt,dcook@example.com,1
+CUS0294,2024-11-28,18-25,71739 White Overpass Apt. 286,New Dawn,gbaldwin@example.org,1
+CUS0295,2023-02-23,36-45,0720 Elizabeth Grove Apt. 569,New Jasminefort,ugraham@example.org,1
+CUS0296,2024-01-30,36-45,7198 Cook Hollow,Brownland,amanda51@example.com,1
+CUS0297,2024-07-09,36-45,328 Tammy Shore Apt. 461,Tommouth,donaldlee@example.net,1
+CUS0298,2024-12-28,26-35,6184 Ferguson Village,Levytown,morganmatthew@example.net,1
+CUS0299,2023-02-01,26-35,87829 Sandy Camp,South Desiree,nmeadows@example.org,3
+CUS0300,2023-06-27,36-45,20417 Mary Circles,North Tylerbury,brockronald@example.net,1
+CUS0301,2024-05-10,26-35,98253 Brittany Isle Apt. 142,Jacksonstad,samuelfrost@example.org,1
+CUS0302,2023-04-08,46+,07100 Sara Squares Suite 672,East Danielle,ljenkins@example.net,1
+CUS0303,2024-05-19,18-25,791 Bailey Avenue,East David,montgomerymichelle@example.net,1
+CUS0304,2024-01-06,46+,340 Daniel Drive Suite 722,North Deannaport,ryancook@example.com,3
+CUS0305,2023-02-01,36-45,220 Robertson Cliffs,Lake Sean,robert53@example.org,2
+CUS0306,2023-08-27,46+,63631 Richards Center,Thomasmouth,paultaylor@example.net,1
+CUS0307,2023-05-22,46+,3520 Juan Creek Suite 762,Jeffreyport,kristinelittle@example.net,1
+CUS0308,2024-10-23,46+,68739 Hood Harbors,Lake Ronniebury,markriley@example.net,1
+CUS0309,2024-11-21,26-35,0078 Ronald Lock,Pachecoville,fsimpson@example.net,1
+CUS0310,2024-07-03,26-35,25431 Timothy Inlet Apt. 799,South Stevenberg,xlopez@example.net,1
+CUS0311,2023-12-05,18-25,165 Kenneth Terrace,Helenside,kristinmiller@example.com,2
+CUS0312,2024-06-21,46+,501 Diaz River,West Michaelside,castrokim@example.org,1
+CUS0313,2024-12-17,26-35,179 Karen Trace,West Michael,wesley64@example.org,1
+CUS0314,2023-02-16,36-45,7881 Mckinney Springs Suite 795,East Patriciamouth,millerrachael@example.com,1
+CUS0315,2024-11-30,18-25,24127 Nancy Pike,West Robertside,thomasfisher@example.net,1
+CUS0316,2024-04-15,36-45,10385 Lane Shoal Suite 798,Ellisshire,rachelparker@example.com,3
+CUS0317,2023-06-15,26-35,0254 Huber River Apt. 842,Port Jean,evanwilson@example.com,1
+CUS0318,2024-02-24,46+,5238 Elizabeth Key Apt. 578,New Kevin,sullivanvictor@example.org,1
+CUS0319,2024-11-22,18-25,08854 Kemp Throughway Apt. 975,Lake Timothyton,ericawilson@example.org,1
+CUS0320,2023-10-21,26-35,5150 Brandy Forges,Jamesland,frhodes@example.net,2
+CUS0321,2023-10-15,26-35,9980 Sanders Stravenue Suite 565,West Michaelport,fsawyer@example.org,2
+CUS0322,2024-06-15,36-45,674 Linda Manors Suite 299,East Jaredfort,carl96@example.org,1
+CUS0323,2023-01-05,18-25,2879 James Village Suite 487,Port Margaretshire,troy73@example.org,1
+CUS0324,2024-07-31,26-35,4714 White Spurs,North David,trevor19@example.net,1
+CUS0325,2023-09-22,18-25,647 Nathaniel Street Apt. 429,East Luisberg,frank45@example.com,3
+CUS0326,2024-04-09,46+,44818 Katie Falls Apt. 928,Moniqueport,gina51@example.net,2
+CUS0327,2024-02-28,26-35,28457 Peterson Estates,East Ericbury,laurahansen@example.net,3
+CUS0328,2024-08-29,26-35,7112 Timothy Inlet,Donmouth,gerald40@example.net,1
+CUS0329,2024-08-17,36-45,23423 Tina Manors,North Andrewfort,gwilliams@example.org,1
+CUS0330,2024-08-01,36-45,1401 Contreras Throughway,Port Davidborough,jackbell@example.org,1
+CUS0331,2023-04-17,36-45,552 William Cliff Apt. 908,Lake James,george80@example.net,1
+CUS0332,2023-03-14,46+,759 Scott Coves,Port Michael,gcoleman@example.org,1
+CUS0333,2023-10-25,46+,71827 Bush Point Apt. 157,South Justinport,aperez@example.com,1
+CUS0334,2024-12-20,36-45,17520 Powers Locks Suite 811,South Richard,figueroapatricia@example.org,2
+CUS0335,2023-02-17,36-45,3961 Mary Stream,Ramirezshire,katelyn65@example.com,3
+CUS0336,2024-05-01,18-25,8427 David Overpass Suite 320,Lake Brianland,lgregory@example.com,1
+CUS0337,2024-03-17,26-35,49911 Sparks Flats Suite 778,Amyside,cisnerosanthony@example.com,1
+CUS0338,2024-10-04,18-25,7567 Johnson Fall,Nicoleburgh,tjordan@example.net,2
+CUS0339,2023-10-12,46+,788 Alvarez Walk,New Brian,troy69@example.net,1
+CUS0340,2023-09-15,26-35,0090 Mary Keys Apt. 561,Reedstad,qbell@example.org,1
+CUS0341,2023-06-30,46+,114 Matthew Brooks Suite 076,Adamsfort,odomnicholas@example.com,1
+CUS0342,2023-08-24,26-35,1357 Jackson Hills,Taraborough,yreid@example.org,1
+CUS0343,2024-09-05,36-45,4049 Ballard Road,Lake Meganville,joshua98@example.com,1
+CUS0344,2023-11-08,46+,48468 Gonzalez Locks Suite 987,North Courtney,barbaralewis@example.net,1
+CUS0345,2024-11-15,46+,896 Alexa Lakes Suite 232,Meganchester,michelle13@example.com,3
+CUS0346,2023-07-14,36-45,249 Richard Crescent Apt. 303,Stevenside,chenderson@example.org,1
+CUS0347,2023-04-27,46+,44820 Casey Centers,West Carolynland,qmosley@example.net,1
+CUS0348,2024-10-08,18-25,231 Alejandra Village Suite 713,Port Lindsaymouth,vshaffer@example.org,1
+CUS0349,2024-11-13,18-25,12347 King Radial,South Amandaville,amy73@example.com,1
+CUS0350,2024-10-03,18-25,7540 Mckenzie Shore,Lake Samanthabury,angela45@example.net,3
+CUS0351,2023-03-31,46+,6064 Davis View,West Jason,ruthwelch@example.net,2
+CUS0352,2023-10-24,26-35,1776 Love Wells,Port Ethanview,bellcarrie@example.net,1
+CUS0353,2024-06-22,26-35,002 Gibbs Dale Apt. 634,Barbaraville,johnreeves@example.net,1
+CUS0354,2024-07-11,46+,7724 Grace Views Suite 431,Richardsonfurt,kduffy@example.org,1
+CUS0355,2023-01-16,46+,931 Gonzalez Squares,North Richard,jburke@example.org,1
+CUS0356,2024-11-30,18-25,108 Ayala Motorway,Wilsonborough,sophiali@example.com,1
+CUS0357,2023-07-30,46+,2639 Wanda Haven Apt. 626,North Kelly,joe73@example.com,1
+CUS0358,2024-03-01,36-45,07256 Jennifer Station Suite 941,New Brianmouth,thomasgomez@example.net,1
+CUS0359,2024-11-16,36-45,48964 Lambert Curve,New Harryburgh,dconrad@example.org,1
+CUS0360,2023-03-07,46+,41502 Savage Village Suite 564,Chloeview,ryan25@example.net,1
+CUS0361,2024-12-27,26-35,703 Brian Falls,South Jorgemouth,fwilson@example.org,2
+CUS0362,2023-11-19,18-25,7121 Davis Ways Suite 228,Annashire,brandybonilla@example.net,1
+CUS0363,2024-07-13,26-35,1371 Johnson Springs,South Nathanielville,eric17@example.net,1
+CUS0364,2024-04-26,36-45,490 Booker Shoal Suite 592,Port Brandon,marcus01@example.net,1
+CUS0365,2024-11-25,36-45,64236 Andrew Fords Apt. 664,North Kenneth,tfitzgerald@example.net,2
+CUS0366,2024-03-16,18-25,158 Tracy Loaf Suite 499,Davischester,christina66@example.org,2
+CUS0367,2023-01-30,46+,3278 Kelly Mews Apt. 742,Lake Rebecca,alexandraphillips@example.org,1
+CUS0368,2024-02-07,26-35,186 Davis Shore,Michaelshire,mackallen@example.net,1
+CUS0369,2024-04-27,26-35,60164 Matthews Motorway,Hansonview,tammy23@example.org,3
+CUS0370,2023-02-27,18-25,168 Adam Crescent Apt. 277,Meltonfort,christine95@example.net,1
+CUS0371,2024-05-06,18-25,1220 Daniel Brook Apt. 037,Lake John,christophercarrillo@example.org,1
+CUS0372,2023-12-13,46+,22777 Michelle Prairie,East Kenneth,awilliams@example.org,1
+CUS0373,2024-04-05,46+,7998 Johnson Locks Suite 899,Hallton,hendersonleslie@example.org,1
+CUS0374,2023-07-15,18-25,1795 Terry Brooks Apt. 437,Samuelhaven,brianacohen@example.net,1
+CUS0375,2024-09-15,18-25,46657 Christy Haven Apt. 722,East Catherine,leonsherry@example.com,2
+CUS0376,2023-08-10,46+,005 Kelly Estate,Port Michele,romanmatthew@example.org,1
+CUS0377,2024-03-26,36-45,374 Glover Trafficway,Port Natalieview,melissarusso@example.net,1
+CUS0378,2024-05-03,18-25,7119 Madison Canyon,East Crystalborough,eric47@example.net,1
+CUS0379,2023-12-30,18-25,55213 Montes Trafficway,East Maryfort,justin21@example.com,2
+CUS0380,2023-09-29,46+,3286 Devin Meadow Suite 678,Sherrymouth,kaylarobbins@example.net,1
+CUS0381,2024-11-19,18-25,5626 Phillip Camp,New Brian,robert84@example.net,1
+CUS0382,2024-06-26,36-45,48926 Schneider Plains Suite 563,Christopherside,peter28@example.net,1
+CUS0383,2023-07-27,18-25,848 Sherman Estate,North Pamelaside,john46@example.net,2
+CUS0384,2023-03-22,36-45,4851 Katherine Crossing,Evanstown,pmorgan@example.net,1
+CUS0385,2024-12-22,26-35,4492 Stone Gateway,West Zacharyborough,shawn26@example.com,1
+CUS0386,2023-03-01,46+,2737 Mike Pine,Chapmanhaven,lwiggins@example.com,1
+CUS0387,2024-04-09,36-45,762 William Oval Suite 288,Lake Jasonfort,francissherry@example.com,3
+CUS0388,2024-11-03,26-35,611 Armstrong Canyon,North Nathan,kevin70@example.org,1
+CUS0389,2023-04-14,46+,44327 David Keys Apt. 067,Arielmouth,ualvarez@example.net,1
+CUS0390,2023-04-07,36-45,777 Michelle Islands,Port Colleenchester,zhall@example.com,1
+CUS0391,2024-01-30,26-35,412 Ashley Underpass Suite 818,East Stephanieside,bernardaimee@example.com,1
+CUS0392,2024-01-02,18-25,82043 Maria Villages,Millerside,richard07@example.org,2
+CUS0393,2023-09-06,36-45,0856 Davis Courts,West Douglas,kayla24@example.com,1
+CUS0394,2024-05-10,46+,520 Kenneth Courts,Douglasmouth,nicholas10@example.org,1
+CUS0395,2023-06-24,18-25,8861 Brown Mountain,Jonestown,bschultz@example.com,1
+CUS0396,2024-02-09,46+,82496 Miller Roads,Port Tammy,amber23@example.net,1
+CUS0397,2024-11-26,36-45,07942 Brian Orchard Suite 946,Meganborough,brandon89@example.org,3
+CUS0398,2023-08-08,36-45,128 Johns Fords Suite 547,Johnmouth,jason95@example.org,1
+CUS0399,2024-10-29,46+,097 Rachel Spring,South Angela,ifarmer@example.org,2
+CUS0400,2024-07-28,36-45,071 Stanton Lane,Paultown,fordsharon@example.com,1
+CUS0401,2023-01-07,46+,5319 Stokes Forges,South Tammy,campbellrebecca@example.net,1
+CUS0402,2024-03-18,46+,61498 Jackson Fields,North Brianna,andersonsarah@example.org,1
+CUS0403,2024-10-05,36-45,08948 Smith Meadow Apt. 566,Davidhaven,hsimpson@example.org,1
+CUS0404,2024-10-07,18-25,46875 Philip Isle,New Lindseybury,prosario@example.org,2
+CUS0405,2023-05-01,26-35,10760 Pittman Gateway Apt. 735,Port Matthewbury,parsonschristine@example.org,1
+CUS0406,2024-04-01,26-35,00651 Bryan Unions,Brownchester,garciabrian@example.org,1
+CUS0407,2023-08-04,36-45,1963 Shawn Mountain Suite 991,Debratown,lholmes@example.org,2
+CUS0408,2023-03-20,18-25,193 Dana Glens,Robertmouth,johnrobles@example.org,1
+CUS0409,2023-04-04,36-45,549 Dylan Inlet Suite 450,North John,hendersonjames@example.org,1
+CUS0410,2024-04-12,36-45,53779 Christian Port,Christinachester,francis70@example.com,1
+CUS0411,2023-06-10,18-25,337 John Street,Lindsayfurt,richardmckenzie@example.org,1
+CUS0412,2023-09-22,46+,0812 Alexander Roads,Bradleytown,jamesthompson@example.com,1
+CUS0413,2024-06-08,46+,323 Gregory Greens Apt. 026,West Sharonport,zallen@example.com,1
+CUS0414,2024-04-27,18-25,112 Laura Fields Suite 559,Rowlandbury,hinesbrenda@example.net,1
+CUS0415,2023-08-03,18-25,3042 Clark Common,Gibbsland,williampotter@example.net,1
+CUS0416,2024-07-02,36-45,8725 Fox Orchard Suite 749,Littleshire,clarkpatricia@example.com,1
+CUS0417,2024-09-22,18-25,46692 Scott Corner Apt. 147,Jerryton,vhunt@example.com,2
+CUS0418,2023-11-26,46+,5754 Johnson Mills Apt. 415,West Meganhaven,hartmansara@example.org,1
+CUS0419,2023-03-28,26-35,83535 Turner Via Suite 392,Alanport,lynn66@example.net,2
+CUS0420,2024-07-07,26-35,8263 Jennifer Fords,Hallshire,dsharp@example.com,1
+CUS0421,2024-08-01,26-35,66377 Nicholas Ports Apt. 407,Matthewchester,zjennings@example.net,1
+CUS0422,2024-01-28,36-45,090 Eric Isle Suite 636,New Paulfort,murphysuzanne@example.net,1
+CUS0423,2024-10-15,26-35,18209 Johnson Flat,South Justinbury,donna17@example.org,1
+CUS0424,2023-09-27,46+,56621 Amanda Neck,South Stephanieborough,monicacollins@example.net,1
+CUS0425,2024-04-30,36-45,949 Wayne Spur,Hilltown,seansummers@example.net,1
+CUS0426,2024-08-12,18-25,777 Jo Heights Suite 546,South John,qellis@example.org,1
+CUS0427,2024-05-24,26-35,0324 Estrada Cliff,South Robert,carneycharles@example.org,1
+CUS0428,2024-01-04,46+,7243 Steven Cliffs Suite 656,South Benjamin,danny25@example.net,2
+CUS0429,2024-06-30,26-35,1183 Taylor View Suite 220,East Kellyside,qjackson@example.org,1
+CUS0430,2024-05-09,26-35,5230 Scott Causeway,South Hannahmouth,georgebrandon@example.com,1
+CUS0431,2024-07-13,46+,3310 Johnson Bridge,Loriland,susandavis@example.net,1
+CUS0432,2023-05-03,46+,68155 Colleen Plains,Mcmillanville,jasonkelly@example.org,1
+CUS0433,2023-01-11,36-45,63731 Santos Land Apt. 136,Katrinafort,marquezkylie@example.net,2
+CUS0434,2023-05-06,46+,562 Thompson Trace,Tiffanyfort,rogerscharlotte@example.net,1
+CUS0435,2023-11-24,26-35,903 Christina Crossing,Joelchester,christinebrown@example.com,2
+CUS0436,2023-12-31,26-35,63039 Stevenson Isle,West Lonnie,meyertiffany@example.net,1
+CUS0437,2024-08-16,26-35,55338 Rebecca Shores,Port Grace,cathyjames@example.com,1
+CUS0438,2023-05-14,36-45,71302 David Extensions,East William,thardy@example.org,3
+CUS0439,2024-06-10,46+,2934 Ray Roads,West Michelle,xmiller@example.com,1
+CUS0440,2023-10-03,26-35,6896 Lori Underpass Suite 066,Port Rebeccaport,angelathompson@example.com,3
+CUS0441,2023-12-05,36-45,6897 Mathew Stravenue Suite 323,North Michellestad,asullivan@example.com,1
+CUS0442,2024-12-09,46+,7491 Dyer Crossing Suite 923,Kruegerstad,xreid@example.net,2
+CUS0443,2023-02-12,26-35,3370 Mccoy Springs Apt. 249,Blackburnberg,john92@example.org,1
+CUS0444,2023-03-27,26-35,669 April Field,Martinchester,heather88@example.net,1
+CUS0445,2024-10-09,18-25,611 Olsen Grove Apt. 640,Port Travis,jonesheather@example.net,1
+CUS0446,2023-11-01,46+,622 Lopez Dale Apt. 728,South Ashleyborough,jamesbrady@example.org,3
+CUS0447,2023-07-09,26-35,9121 Miller Crossing Suite 150,South Todd,smithjoseph@example.org,3
+CUS0448,2024-04-30,36-45,38069 Frederick Mountains,Cassandramouth,evelyn55@example.org,1
+CUS0449,2024-11-17,18-25,9055 Aaron Ways Suite 209,Port Alyssabury,shannon78@example.com,2
+CUS0450,2024-04-26,46+,505 Tara Street,Ericabury,nross@example.org,2
+CUS0451,2023-09-12,26-35,164 Jennifer Ways Apt. 271,Marisaside,cjackson@example.org,1
+CUS0452,2023-12-18,26-35,32116 Ethan Islands,Mirandabury,elizabeth12@example.net,1
+CUS0453,2024-04-07,26-35,53991 Bennett Stravenue Suite 863,West Darrell,rodriguezmatthew@example.net,1
+CUS0454,2024-11-15,46+,525 Ray Alley,Bryanside,melaniewhitney@example.com,2
+CUS0455,2024-07-17,46+,993 Randall Plain,Stewartport,vincentbryant@example.net,1
+CUS0456,2023-07-26,46+,548 Joshua Vista,Welchborough,ycarter@example.org,1
+CUS0457,2024-12-17,36-45,33027 Evans Via Apt. 086,Robertofort,katherine61@example.net,1
+CUS0458,2024-06-14,18-25,386 David Terrace Apt. 472,South Heather,phyllis33@example.net,2
+CUS0459,2023-05-23,26-35,9126 Shelton Extension,North Michaelfort,sierrawilson@example.net,1
+CUS0460,2024-04-19,36-45,63013 Burns Spurs Apt. 617,Hillmouth,alexander11@example.org,1
+CUS0461,2023-12-24,18-25,99974 Laura Falls,Washingtonchester,ashley15@example.org,1
+CUS0462,2024-06-05,46+,0688 Brown Villages,Port Karenville,michelleneal@example.org,1
+CUS0463,2024-02-09,36-45,02932 Anna Vista Apt. 118,Michaelside,rodneylandry@example.org,3
+CUS0464,2023-07-01,46+,487 Barbara Square,Alexandrastad,haileybates@example.org,3
+CUS0465,2023-06-23,18-25,43298 Brittany Harbors,Lake Cindy,piercejorge@example.net,1
+CUS0466,2024-10-21,26-35,1462 Chad Street Suite 359,South Lorraine,victoria66@example.org,1
+CUS0467,2024-12-04,46+,41818 Jones Route,West Reginaview,mistyperez@example.org,1
+CUS0468,2023-03-13,26-35,1128 Chapman Valley,Davisstad,andrea91@example.org,1
+CUS0469,2023-05-05,18-25,58896 Vargas Green Apt. 822,South Ashley,brian53@example.net,1
+CUS0470,2024-03-20,36-45,75784 Cisneros Pike Apt. 414,Townsendland,jonesjohn@example.org,1
+CUS0471,2023-05-01,18-25,48706 Timothy Passage,South Alexanderborough,kleinjacqueline@example.net,1
+CUS0472,2023-09-09,26-35,728 Gregory Lakes,New Michael,hendersonnicholas@example.com,1
+CUS0473,2024-12-08,36-45,381 Evans Hill Suite 309,Robinsonport,wallspatricia@example.com,1
+CUS0474,2023-02-11,26-35,754 Rodriguez Keys,South Michael,jordanjames@example.net,1
+CUS0475,2024-01-11,36-45,1702 Perez Locks,Kevinchester,amandaadams@example.com,1
+CUS0476,2024-04-24,46+,25605 Daniel Haven Apt. 266,Rachelburgh,stacymoyer@example.com,1
+CUS0477,2023-03-28,46+,725 Shaw Streets Suite 211,East Erichaven,saundersjoel@example.net,2
+CUS0478,2024-08-28,36-45,067 Campbell Corner Suite 392,East Juan,linvirginia@example.org,1
+CUS0479,2024-05-01,18-25,71892 Victoria Ramp Apt. 312,Johnsonborough,ronaldjensen@example.org,1
+CUS0480,2024-09-22,36-45,8433 Simmons Circle Suite 041,Michaelstad,dwright@example.org,1
+CUS0481,2023-01-30,26-35,534 Ramirez Rest,South Jackfort,matthew11@example.net,1
+CUS0482,2023-01-10,26-35,5598 Allen Harbor,New Patrick,andersonjulia@example.org,3
+CUS0483,2023-01-30,26-35,71189 Turner Mountains,New Jennifer,andersonrobert@example.net,1
+CUS0484,2023-07-04,46+,7161 Barnes Parkway Apt. 294,West Brandon,bauerheather@example.net,1
+CUS0485,2024-08-17,26-35,881 Samuel Pass Suite 866,Jamietown,ashleyvargas@example.org,3
+CUS0486,2024-10-03,26-35,844 Kenneth Grove Apt. 230,West Benjamin,sheriramirez@example.org,2
+CUS0487,2023-07-17,46+,338 Aaron Key,Markside,jennifer69@example.com,1
+CUS0488,2023-08-25,26-35,053 Thompson Brook,Lake Juliefurt,molly98@example.org,1
+CUS0489,2024-08-19,46+,4396 Sean Stream,Richardsonfort,crawfordstephen@example.org,1
+CUS0490,2023-05-18,26-35,240 Martin Fall Suite 931,North Ronald,zstout@example.org,1
+CUS0491,2024-06-12,18-25,091 Cruz Creek,Port Mariaton,johnmiller@example.org,1
+CUS0492,2024-11-16,26-35,18513 Timothy Port,Ochoaport,timothy30@example.net,1
+CUS0493,2024-05-20,26-35,01841 Thomas Fork,East Ronaldberg,diana36@example.net,1
+CUS0494,2024-10-07,36-45,2131 Howard Ridges,Davidland,munozgregory@example.net,1
+CUS0495,2023-09-02,46+,624 Bailey Cove,Sabrinastad,lisa10@example.org,1
+CUS0496,2024-07-21,36-45,2677 Daniel Meadow,Duanemouth,huntercruz@example.com,1
+CUS0497,2023-12-27,46+,695 Leah Shoal Apt. 668,Ryanfort,patrickcarpenter@example.com,1
+CUS0498,2024-01-20,36-45,135 James Vista,West Angelaberg,brownmichael@example.org,1
+CUS0499,2023-08-04,46+,633 Brian Dam,Lake Janefurt,hortonroger@example.org,1
+CUS0500,2024-05-27,36-45,9202 Thomas Gardens,North Ashleychester,kathyharrison@example.org,1
